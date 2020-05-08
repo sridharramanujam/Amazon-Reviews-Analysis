@@ -23,4 +23,4 @@ Therefore, each aggregate vector represents a single product.
 Using this logic and the similar method of utilizing Euclidean distances, I calculated the distances between the 10 products from the dataset. 
 The products are represented by the ‘asin’ IDs.
  
-Fig.3: The Euclidean distance between products
+
