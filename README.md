@@ -1,6 +1,7 @@
 # Amazon-Reviews-Analysis
 A recommendation engine trained on 500k Amazon user reviews to identify similar products using a bag-of-words model 
 This project was about implementing natural language processing using the bag-of-words model on data for over 500,000 user reviews on Amazon. 
+
 First step was to process the reviews and transform the text into a format that can be used to implement the bag-of-words model.
 Using the most frequently used 500 words, a bag-of-word vector is created for each review.
 
